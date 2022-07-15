@@ -1,2 +1,1 @@
-# OTI-student
-Oriëntatie op Technische Informatie
+Uitwerkingen in MicroPython, bijvoorbeeld voor de Raspberry Pi Pico.
